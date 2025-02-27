@@ -1,0 +1,1 @@
+실습: AutoGen의 DockerCommandLineExecutor를 사용합니다. 네이버 주가 정보를 가져오고, 이 정보를 coding이라는 폴더에 파일로 저장하도록 하시오. 주가정보를 가져오고 저장하는 코드를 LLM이 작성하고, 그 결과를 검증하여 제대로 되었는지 확인하는 부분을 user_proxy_agent에 연동하여 수행하게 하시오.
